@@ -1,3 +1,5 @@
+# Crypto Calendar 2022
+
 ### January
 * **23.1-26.1:** [BIU Winter School on Cryptography](https://cyber.biu.ac.il/event/the-12th-biu-winter-school-on-cryptography/), Israel. :school:
 
@@ -20,7 +22,7 @@
 ### May
 * **2.5:** [CCS](https://www.sigsac.org/ccs/CCS2022/call-for-papers.html) 2nd submission deadline. :calendar:
 * **19.5:** [CRYPTO](https://crypto.iacr.org/2022/) notifications. :bell:
-* **23.5.-26.5:** [IEEE S\&P](https://www.ieee-security.org/TC/SP2022/index.html) conference, Oakland, USA. :loudspeaker:
+* **23.5.-26.5:** [IEEE S&P](https://www.ieee-security.org/TC/SP2022/index.html) conference, Oakland, USA. :loudspeaker:
 * **24.5:** [TCC](https://tcc.iacr.org/2022/) submission deadline. :calendar:
 * **27.5 (TBD):** [ASIACRYPT](https://asiacrypt.iacr.org/2022/) submission deadline. :calendar:
 * **30.5.-3.6:** [EUROCRYPT](https://eurocrypt.iacr.org/2022/) conference, Trondheim, Norway. :loudspeaker:
@@ -42,12 +44,10 @@
 * **13.8-18.8:** [CRYPTO](https://crypto.iacr.org/2022/) conference, Santa Barbara, USA. :loudspeaker:
 
 ### September
-* **12-9-16.9:** [crypt@b-it](https://cryptabit.bit.uni-bonn.de/2022) Summer school on Cryptography, Bonn, Germany. :school:
+* **12-9-16.9:** [crypt@b-it Summer school on Cryptography](https://cryptabit.bit.uni-bonn.de/2022), Bonn, Germany. :school:
 
 ### October
 * **31.10-3.11:** [FOCS](https://focs2022.eecs.berkeley.edu) conference, Denver, USA. :loudspeaker:
 
 ### November
 * **7.11-11.11:** [CCS](https://www.sigsac.org/ccs/CCS2022/) conference, Los Angeles, USA. :loudspeaker:
-
-### December
